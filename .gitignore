@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.ide
+*.userosscache
+*.tlog
+
+# Build output
+bin/
+obj/
+
+# Docker cache
+*.cache
+
+appsettings*.local.json
